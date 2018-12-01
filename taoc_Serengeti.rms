@@ -304,8 +304,8 @@ create_object STONE
 
 create_object STORK
 {
-   number_of_objects         4
-   set_scaling_to_map_size
+  number_of_objects         4
+  set_scaling_to_map_size
 }
 
 #const ACACIATREE 1063
@@ -346,61 +346,61 @@ create_object ACACIATREE
 
 create_object LION
 {
-     number_of_groups 30
-     set_loose_grouping
-        number_of_objects 1
-     set_gaia_object_only
-     temp_min_distance_group_placement 60
-     min_distance_to_players 32
+  number_of_groups 30
+  set_loose_grouping
+  number_of_objects 1
+  set_gaia_object_only
+  temp_min_distance_group_placement 60
+  min_distance_to_players 32
 }
 
 create_object SHORE_FISH
 {
   number_of_objects 999
-     set_scaling_to_map_size
-     temp_min_distance_group_placement 15
-     set_gaia_object_only
+  set_scaling_to_map_size
+  temp_min_distance_group_placement 15
+  set_gaia_object_only
 }
 
 create_object AFROBOULDER_A 
 {
   number_of_objects 999
-     set_scaling_to_map_size
-     temp_min_distance_group_placement 60
-     set_gaia_object_only
-     min_distance_to_players 14
+  set_scaling_to_map_size
+  temp_min_distance_group_placement 60
+  set_gaia_object_only
+  min_distance_to_players 14
 }
 
 create_object AFROBOULDER_B
 {
   number_of_objects 999
-     set_scaling_to_map_size
-     temp_min_distance_group_placement 60
-     set_gaia_object_only
-     min_distance_to_players 14
+  set_scaling_to_map_size
+  temp_min_distance_group_placement 60
+  set_gaia_object_only
+  min_distance_to_players 14
 }
 
 create_object AFROBOULDER_C
 {
   number_of_objects 999
-     set_scaling_to_map_size
-     temp_min_distance_group_placement 60
-     set_gaia_object_only
-     min_distance_to_players 14
+  set_scaling_to_map_size
+  temp_min_distance_group_placement 60
+  set_gaia_object_only
+  min_distance_to_players 14
 }
 
 create_object AFROBUSH
 {
   number_of_objects 999
-     set_scaling_to_map_size
-     temp_min_distance_group_placement 60
-     set_gaia_object_only
-     min_distance_to_players 14
+  set_scaling_to_map_size
+  temp_min_distance_group_placement 60
+  set_gaia_object_only
+  min_distance_to_players 14
 }
 
 <ELEVATION_GENERATION>
 
-create_elevation 5
+create_elevation 2
 {
   base_terrain SAVANNAH
   number_of_clumps 60
