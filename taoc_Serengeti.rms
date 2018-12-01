@@ -150,8 +150,8 @@ create_object GOATEE
    set_loose_grouping
    set_gaia_object_only
    set_place_for_every_player
-   min_distance_to_players 0
-   max_distance_to_players 0
+   min_distance_to_players 1
+   max_distance_to_players 2
 }
 
 create_object GOATEE
