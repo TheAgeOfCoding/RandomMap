@@ -1,2 +1,2 @@
 # Random Map Scripts
-Copy to `Microsoft Games/Age of Empires II/Random`
+Copy to `Age2HD/Voobly Mods/AOC/Data Mods/WololoKingdoms/Script.Rm/`
