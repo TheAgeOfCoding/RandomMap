@@ -146,7 +146,17 @@ endif
 
 create_object GOATEE
 {
-   number_of_objects 4
+   number_of_objects 1
+   set_loose_grouping
+   set_gaia_object_only
+   set_place_for_every_player
+   min_distance_to_players 0
+   max_distance_to_players 0
+}
+
+create_object GOATEE
+{
+   number_of_objects 3
    set_loose_grouping
    set_gaia_object_only
    set_place_for_every_player
