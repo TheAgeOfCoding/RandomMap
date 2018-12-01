@@ -59,8 +59,8 @@ number_of_clumps 80
 create_terrain QUICKSAND
 {
 base_terrain DIRT4
-land_percent 7
-number_of_clumps 40
+land_percent 10
+number_of_clumps 3
 set_avoid_player_start_areas
 }
 
